@@ -1,4 +1,4 @@
-# 🤖 Un futuro Ingeniero de Sistemas — @fc24002-student 
+# 🤖 Un futuro Ingeniero de Sistemas — José Flores@fc24002-student 
 
 <div align="center">
   <img src="https://img.shields.io/badge/FACTION-AUTOBOTS-red?style=for-the-badge&logo=opsgenie&logoColor=white" />
@@ -19,9 +19,10 @@
 <img src="https://media.giphy.com/media/images/v1.Y2lkPTc5MGI3NjExM3Z0N3VvZHp6bXFieGd4bWZ6b2sycWd2MWd1MHBwZW15cWw3Z2RkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gpXfKa9xLAR56/giphy.gif" align="right" width="280" alt="Optimus Prime Gimmick" />
 
 * 🇸🇻 **Origen:** Operando desde El Salvador.
-* 💻 **Misión Actual:** Especializándome en el desarrollo con **Java 21** y la velocidad de **Rust** 🦀.
-* 🛠️ **Fascinación:** Apasionado por la automatización **DevOps**, Estructuras de Datos y la estabilidad pura de **Debian Linux** 🐧.
-* 🗄️ **Almacenamiento:** Control y manejo de bases de datos **Oracle 11g** y **SQL** sobre sistemas Debian 12.
+* **Sistema Operativo:** Linux Mint XFCE.
+* 💻 **Misión Actual:** Especializándome en el desarrollo con **Java** y la velocidad de **Rust**, y más Lenguajes como **C++**, **Python**.
+* 🛠️ **Fascinación:** Apasionado por la tecnología, Creación de programas, Estructuras de Datos, Bases de Datos.
+* 🗄️ **Almacenamiento:** Control y manejo de bases de datos **Oracle 11g** y **SQL, MariaDB** sobre sistemas Linux y Windows. 
 
 ---
 
@@ -31,7 +32,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 
 ### 🗃️ Infraestructura y DevOps (Estrategia Decepticon)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Linux Mint XFCE](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 
 ---
 
