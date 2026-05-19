@@ -7,6 +7,19 @@
 
 <br>
 
+<h1 align="center">⚡ Welcome to Cybertron ⚡</h1>
+
+<h3 align="center">
+Ingeniero de Sistemas | DevOps | Java | Rust | Linux
+</h3>
+
+<p align="center">
+<img src="https://media.giphy.com/media/VeWllmR9zfaco/giphy.gif" width="500"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=Transforming+Code+Into+Power;Autobots+Roll+Out!;Java+%7C+Rust+%7C+Linux+%7C+DevOps" />
+</p>
 <div align="center">
   <h2>⚡ "¡Autobots, transfórmense y avancen!" — Optimus Prime ⚡</h2>
   <p><i>Estudiante universitario de Ingeniería de Sistemas en la UES durante el día, Gamer y guardián de Cybertron durante la noche.</i></p>
