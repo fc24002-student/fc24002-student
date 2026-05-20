@@ -6,7 +6,7 @@
 </div>
 
 <br>
-
+<img width="736" height="414" alt="Image" src="https://github.com/user-attachments/assets/4420074f-a41c-46a6-b171-4792d16d824d" />
 <h1 align="center">⚡ Welcome to Cybertron ⚡</h1>
 
 <h3 align="center">
