@@ -27,8 +27,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="25" height="25" style="vertical-align: middle;"> Correo Institucional: 
 <a href="mailto:fc24002@ues.edu.sv ">fc24002@ues.edu.sv 📧</a>
 </p>
-<br>
-<img width="1920" height="1080" alt="Banner" src="https://github.com/user-attachments/assets/19ac2599-c9fd-453f-a473-d9832d028484" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0b306524-e3ac-449e-9d11-04b184481ae6" />
 
 ---
 
