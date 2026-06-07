@@ -32,8 +32,12 @@
 
 ---
 
-<div>
-  <img src="https://github.com/user-attachments/assets/c383faab-c525-4e79-aace-87df66410790" alt="Mi Animación" align="right" width="35%" style="margin-left: 20px; margin-bottom: 20px;" />
+<div style="overflow: hidden;">
+  <img src="https://github.com/user-attachments/assets/67fc53ce-80ad-4e6d-9940-3ebc4a667ce6" 
+       alt="Mi Animación" 
+       align="right" 
+       width="35%" 
+       style="margin-left: 20px; margin-bottom: 20px;">
   
   <h3>🛠️ Tecnologías y herramientas</h3>
   <p><b>Aprendiendo:</b></p>
@@ -44,7 +48,8 @@
   </ul>
 </div>
 
-<br clear="right" /> <hr />
+<br clear="right"/> 
+<hr />
 
 ### 🎯 Mis Objetivos Universitarios y Profesionales
 
