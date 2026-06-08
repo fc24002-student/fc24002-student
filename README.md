@@ -82,19 +82,20 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Zed%20IDE-24292E?style=for-the-badge&logo=zed&logoColor=fff" /> <img src="https://img.shields.io/badge/Apache%20NetBeans-1E6BBB?style=for-the-badge&logo=apache-netbeans&logoColor=white" /> <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" /> <img src="https://img.shields.io/badge/Thunder%20Client-7300e6?style=for-the-badge&logo=thunder-client&logoColor=white" /> <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" /> <img src="https://img.shields.io/badge/Linux_Mint-9DB93C?style=for-the-badge&logo=linux-mint&logoColor=white" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 <br>
+
 <p align="center">
   <b>📊 GitHub Stats</b>
 </p>
 
 <!-- FILA SUPERIOR: Las dos tarjetas principales alineadas juntas -->
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=fc24002-student&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" style="height: 195px; margin: 5px;" />
+  <img src="https://github-readme-stats-jade-two-39.vercel.app/api?username=fc24002-student&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" style="height: 195px; margin: 5px;" />
   <img src="https://streak-stats.demolab.com/?user=fc24002-student&theme=midnight-purple&hide_border=false" style="height: 195px; margin: 5px;" />
 </div>
 
 <!-- FILA INFERIOR: La tarjeta de lenguajes centrada abajo -->
 <div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=fc24002-student&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" style="height: 285px; margin: 5px;" />
+  <img src="https://github-readme-stats-jade-two-39.vercel.app/api/top-langs/?username=fc24002-student&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" style="height: 285px; margin: 5px;" />
 </div>
 
 <p align="center">
@@ -110,3 +111,5 @@
 </p>
 
 <h2 align="center">Algunos Repositorios y Commits👇👇👇</h2>
+
+
