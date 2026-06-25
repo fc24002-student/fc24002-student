@@ -96,9 +96,9 @@
   <img src="https://streak-stats.demolab.com/?user=fc24002-student&theme=midnight-purple&hide_border=false" style="height: 195px; margin: 5px;" />
 </div>
 
-<!-- FILA INFERIOR: La tarjeta de lenguajes centrada abajo -->
+<!-- FILA INFERIOR: La tarjeta de lenguajes centrada abajo (CON REPOSITORIOS PRIVADOS INCLUIDOS) -->
 <div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-stats-jade-two-39.vercel.app/api/top-langs/?username=fc24002-student&theme=midnight-purple&layout=donut"  style="height: 285px; margin: 5px;" />
+  <img src="https://github-readme-stats-jade-two-39.vercel.app/api/top-langs/?username=fc24002-student&theme=midnight-purple&layout=donut&count_private=true" style="height: 285px; margin: 5px;" />
 </div>
 
 <p align="center">
@@ -114,4 +114,3 @@
 </p>
 
 <h2 align="center">Algunos Repositorios y Commits👇👇👇</h2>
-
