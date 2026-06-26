@@ -17,7 +17,7 @@
 <li>☕Quiero especializarme en el lenguaje de programación Java (With Ant, Maven, Sprint Boot</li>
 <li>🖥Aprender diferentes tecnologias</li>
 <li>📑Aprender diferentes motores de Bases de Datos</li>
-<li>👨‍💻Quiero seguir aprendiendo para mejorar profesionalmente/li>
+<li>👨‍💻Quiero seguir aprendiendo para mejorar profesionalmente</li>
 <br>
   
 <p>
@@ -64,7 +64,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;✅ Aprender diferentes modelos de bases de datos<br>
 &nbsp;&nbsp;&nbsp;&nbsp;✅ Aprender diferentes herramientas de desarrollo<br>
 &nbsp;&nbsp;&nbsp;&nbsp;✅ Desarrollar y participar en proyectos que fortalezcan<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mi aprendizaje<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mi aprendizaje<br>
 &nbsp;&nbsp;&nbsp;&nbsp;✅ Desarrollar mi portafolio de proyectos personales<br>
 &nbsp;&nbsp;&nbsp;&nbsp;✅ Graduarme como Ingeniero de Sistemas Informáticos<br>
 &nbsp;&nbsp;&nbsp;&nbsp;✅ Desarrollar mis habilidades como estudiante de Ingeniería<br>
