@@ -113,4 +113,7 @@
   ⭐ <i>"Primero resuelve el problema, después escribe el código" – John Johnson</i>
 </p>
 
+![Top language](https://stats.pphat.top/languages?username=fc24002-student)
+<br/>
+
 <h2 align="center">Algunos Repositorios y Commits👇👇👇</h2>
