@@ -57,7 +57,7 @@
 
 ### 🎯 Mis Objetivos Universitarios y Profesionales
 
-<img width="800" height="600" alt="Image" src="https://github.com/user-attachments/assets/344e3a14-84e3-4eb5-8d4b-8f52ff56b34c" align="left" width="250" style="margin-right: 40px; margin-bottom: 20px;">
+<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/bfa0807c-e32c-4e20-89cf-e84b25b58fcd" align="left" width="250" style="margin-right: 40px; margin-bottom: 20px;">
 <ul style="list-style: none; padding-left: 0;"> <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;✅ Dominar Git y GitHub<br>
 &nbsp;&nbsp;&nbsp;&nbsp;✅ Aprender nuevos lenguajes de programación<br>
