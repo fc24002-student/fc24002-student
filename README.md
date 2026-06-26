@@ -10,6 +10,7 @@
   🎓 Estudiante | 🔧 Ingeniero en formación | 💻 Apasionado por la tecnología<br>
   <i>Aprendiendo Git, GitHub y diferentes lenguajes de programación</i>
 </p>
+https://github.com/user-attachments/assets/83d5c238-2faf-417f-ad95-17bcbc335311
 <p><b><h2>Datos Sobre mi</h2></b></p>
 <li>👋¡Hola! Soy José Flores de El Salvador 🇸🇻</li>
 <li>💻Actualmente soy estudiante de Ingeniería de Sistemas</li>
