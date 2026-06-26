@@ -108,6 +108,12 @@
 ---
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+---
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=fc24002-student&style=for-the-badge&color=7B2FBE" height="60" style="max-width: 100%;" alt="Profile Views" />
   <br><br>
   ⭐ <i>"Primero resuelve el problema, después escribe el código" – John Johnson</i>
