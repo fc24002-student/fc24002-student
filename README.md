@@ -113,6 +113,9 @@
 
 ---
 
+![badge-wave](https://stats.pphat.top/badges?username=fc24002-student&name=visitors,total-stars,repositories,total-issues&effect=wave)
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fc24002-student&style=for-the-badge&color=7B2FBE" height="60" style="max-width: 100%;" alt="Profile Views" />
   <br><br>
