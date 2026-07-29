@@ -9,8 +9,10 @@
 <p align="center">
   🎓 Estudiante | 🔧 Ingeniero en formación | 💻 Apasionado por la tecnología<br>
   <i>Aprendiendo Git, GitHub y diferentes lenguajes de programación</i>
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> <b> Datos Sobre mi</b>
+
 </p>
-<p><b><h2>Datos Sobre mi</h2></b></p>
 <li>👋¡Hola! Soy José Flores de El Salvador 🇸🇻</li>
 <li>💻Actualmente soy estudiante de Ingeniería de Sistemas</li>
 <li>✍Universidad De El Salvador, Facultad Multidisciplinaria</li>
@@ -21,7 +23,8 @@
 <br>
   
 <p>
-  <b><h2></h2>Enlaces y Contacto 💻</h2></b>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Enlaces y Contacto 💻</b>
 </p>
 <p>
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  width="25" height="25" style="vertical-align: middle;"> Instagram: 
@@ -75,7 +78,9 @@
 ---
 
 <p align="center">
-  <h2>📈 Mis Estadísticas y Conectividad</h2>
+  
+  <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Mis Estadísticas y Conectividad </h3>
+
 </p>
 
 <p align="center">
@@ -123,3 +128,5 @@
 
 
 <h2 align="center">Algunos Repositorios y Commits👇👇👇</h2>
+
+
